@@ -1,8 +1,8 @@
 # 👋 Halo, saya Zid Irsyadin Sartono Wijaogy  
 ### Informatics Engineer | AI & NLP Enthusiast | Creative Technologist
 
-Saya adalah lulusan Teknik Informatika dari Universitas Hasanuddin (GPA 3.85) yang memiliki ketertarikan dalam pengembangan solusi berbasis Artificial Intelligence (AI), Natural Language Processing (NLP), dan Data Analytics.  
-Saya juga berpengalaman memimpin tim kreatif dan teknis dalam berbagai proyek — mulai dari digitalisasi organisasi hingga desain visual untuk acara berskala nasional dan internasional.
+Saya adalah lulusan Teknik Informatika dari Universitas Hasanuddin (GPA 3.85) yang memiliki ketertarikan dalam pengembangan solusi berbasis Artificial Intelligence (AI), Natural Language Processing (NLP), dan Data Scientist.  
+Saya juga berpengalaman memimpin tim kreatif dan teknis dalam berbagai proyek, mulai dari digitalisasi organisasi hingga desain visual untuk acara berskala nasional dan internasional.
 
 ---
 
@@ -21,10 +21,6 @@ Saya juga berpengalaman memimpin tim kreatif dan teknis dalam berbagai proyek �
 - Mengembangkan model CNN untuk klasifikasi emosi suara, dengan fokus pada robustness terhadap noise.  
 - Tools: Python, TensorFlow, Librosa.
 
-### 🤖 AI Chatbot (On Progress)  
-- Chatbot berbasis NLP untuk interaksi pengguna.  
-- Tools: Python, Hugging Face Transformers, Streamlit.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -37,20 +33,6 @@ Saya juga berpengalaman memimpin tim kreatif dan teknis dalam berbagai proyek �
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-
----
-
-## 🏆 Pencapaian
-
-- **CTO – COV.id**  
-  Meningkatkan efisiensi tim hingga 50% lewat otomasi proses event management.
-
-- **Graphic Designer – TEDxUNHAS**  
-  Bertanggung jawab atas visual branding TEDx pertama di Universitas Hasanuddin.
-
-- **HCIA-AI Certificate (Huawei)** – Skor: 840  
-- **7th International Student Science Forum** – Vietnam, 2023  
-- **TOEFL Prediction Score** – 577  
 
 ---
 
