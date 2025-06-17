@@ -9,8 +9,8 @@ Saya juga berpengalaman memimpin tim kreatif dan teknis dalam berbagai proyek â€
 ## ğŸ“Š GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zidisw&show_icons=true&theme=tokyonight&custom_title=Statistik GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zidisw&layout=compact&theme=midnight-purple&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zidisw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&custom_title=My%20Last%20Stat" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zidisw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ---
