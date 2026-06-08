@@ -1,4 +1,3 @@
-```md
 # 👋 Hi, I'm Zid Irsyadin Sartono Wijaogy
 
 ### 💻 Full Stack Vibe Coding Developer | 🤖 AI & NLP Enthusiast | 🚀 Creative Technologist
@@ -147,4 +146,3 @@ A CNN-based speech emotion classification system focused on improving robustness
 ---
 
 > Building software, exploring AI, and turning ideas into impactful digital products.
-```
