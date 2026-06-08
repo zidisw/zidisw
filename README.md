@@ -102,9 +102,9 @@ A CNN-based speech emotion classification system focused on improving robustness
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zidisw&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zidisw&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zidisw&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zidisw&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
