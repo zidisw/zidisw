@@ -100,14 +100,6 @@ A CNN-based speech emotion classification system focused on improving robustness
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=zidisw&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zidisw&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zidisw&theme=tokyonight)
